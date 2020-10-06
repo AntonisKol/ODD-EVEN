@@ -1,1 +1,1 @@
-An example of the ODD/EVEN use.
+https://antoniskol.github.io/ODD-EVEN/
